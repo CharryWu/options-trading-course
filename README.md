@@ -1,5 +1,6 @@
 # [options-trading-course](https://www.udemy.com/course/the-completecomplete-options-course-calls-puts-long-short)
 Course link: https://www.udemy.com/course/the-completecomplete-options-course-calls-puts-long-short
+All exercise spreadsheets download link: https://harouneducationventures.com/optionexcelversion
 > Everyone needs to understand options – including investors, entrepreneurs, CEOs and CFOs because it affects all of our lives and can make us a fortune or help to protect us from losing everything. In this course I will teach you from scratch EVERYTHING you need to know about options. I will also provide you with many comprehensive Excel spreadsheets so that you can thoroughly enjoy, understand & practice investing in options from scratch.
 
 **Section 1: Course Introduction & How to Take this Course:**
