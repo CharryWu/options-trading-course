@@ -1,1 +1,334 @@
-# options-trading-course
+# [options-trading-course](https://www.udemy.com/course/the-completecomplete-options-course-calls-puts-long-short)
+Course link: https://www.udemy.com/course/the-completecomplete-options-course-calls-puts-long-short
+> Everyone needs to understand options – including investors, entrepreneurs, CEOs and CFOs because it affects all of our lives and can make us a fortune or help to protect us from losing everything. In this course I will teach you from scratch EVERYTHING you need to know about options. I will also provide you with many comprehensive Excel spreadsheets so that you can thoroughly enjoy, understand & practice investing in options from scratch.
+
+**Section 1: Course Introduction & How to Take this Course:**
+- How to Take the Course and How to Access the Many Excel Exercises
+- Section 1.1 Option and Stock Volatility, the Vix and More:
+    - [B/G/A] Lecture 1.1: The Bigger Picture: Option Volatility & the Vix
+    - [B/G/A] Exercise 1.1: The Bigger Picture: Option Volatility & the Vix
+    - [B/G/A] Quiz 1.1: The Bigger Picture: Option Volatility & the Vix
+- [Optional Section] 1.2: Going Long and Short, Stocks, ETFs, Commodities & More:
+    - [A] Introduction to Going Long and Going Short Stocks, ETFs, Commodities & More
+    - [A] Lecture 1.2.1: Going Long and Going Short Stocks, ETFs, Commodities & More
+    - [A] Exercise 1.2.1: Going Long a Stock (Also Called a Owning a Stock)
+    - [A] Exercise 1.2.2: Going Short a Stock
+    - [A] Exercise 1.2.3: Going Long a Country Based ETF
+    - [A] Exercise 1.2.4: Going Short a Country Based ETF
+    - [A] Exercise 1.2.5: Going Long a Sector Based ETF
+    - [A] Exercise 1.2.6: Going Short a Sector Based ETF
+    - [A] Exercise 1.2.7: Going Long a Commodity Based ETF
+    - [A] Exercise 1.2.8 Going Short a Commodity Based ETF
+    - [A] Quiz 1.2: Going Long and Going Short Stocks, ETFs, Commodities & More
+- Section 1.3: The Basics of How Options Work (Tickers, Calls, Puts & More):
+    - [B/A] Introduction to The Basics of How Options Work (Tickers, Calls, Puts & More)
+    - [B/A] Lecture 1.3.1: Calls are Easy to Learn if We Compare them to Insurance
+    - [B/A] Lecture 1.3.2: Option Leverage & Strike Prices and a BIG Surprise :)
+    - [B/A] Lecture 1.3.3: Exercising Call Options for the Long Owner of a Call
+    - [B/A] Lecture 1.3.4: Introduction to Greek Formulas
+    - [B/A] Lecture 1.3.5: Intro. to Option Writing & Buying Our First Call Option
+    - [B/A] Lecture 1.3.6: Selling and Exercising Our First Long Call Option
+    - [B/A] Lecture 1.3.7: Writing (Shorting) Our First Call Option and Assignment Risk
+    - [B/A] Lecture 1.3.8: Buying (Meaning Going Long) Our First Put Option
+    - [B/A] Lecture 1.3.9: Selling and Exercising Our First Long Put Option
+    - [B/A] Lecture 1.3.10: Writing (Shorting) Our First Put Option and Assignment Risk
+    - [B/A] Lecture 1.3.11: How to Read Option Tickers
+    - [B/A] Exercise 1.3.1: How to Read Option Tickers
+    - [B/A] Exercise 1.3.2: How Do We Value a Call (Plus Volatility & Dividends)?
+    - [B/A] Exercise 1.3.3: How Much Can We Make or Lose When We’re Long a Call Option?
+    - [B/A] Exercise 1.3.4: Comparing Profits & Losses for Owning a Stock Vs. a Call
+    - [B/A] Exercise 1.3.5: What is a Put Option and How Do We Value a Put Option?
+    - [B/A] Exercise 1.3.6: How Much Can We Make or Lose When Buying a Put Option?
+    - [B/A] Exercise 1.3.7: Comparing Profits & Losses for Short Stock Vs. Long a Put
+    - [B/A] Exercise 1.3.8: What’s a Short Call & How Do We Value a Short Call?
+    - [B/A] Exercise 1.3.9: How Much Can We Make or Lose When Shorting a Call Option?
+    - [B/A] Exercise 1.3.10: What’s a Short Put & How Do We Value a Short Put?
+    - [B/A] Exercise 1.3.11: How Much Can We Make or Lose When Shorting a Put Option?
+    - [B/A] Quiz 1.3: The Basics of How Options Work (Tickers, Calls, Puts & More)
+    - [A] Optional Side Note: Opening an Options Account and Using Options Software
+- Section 1.4: Pricing a Long or Short Call or Put
+- Section 1.4: Pricing a Long or Short Call or Put
+    - [B/A] Introduction to Pricing a Long or Short Call or Put:
+    - [B/A] Lecture 1.4.1: Understanding Historical Versus Implied Volatility
+    - [B/A] Lecture 1.4.2: Understanding Open Interest and Volume
+    - [B/A] Lecture 1.4.3: Options Best Practices
+    - [B/A] Exercise 1.4.1: Detailed Analysis of Pricing a Long Call Option
+    - [B/A] Exercise 1.4.2: Detailed Analysis of Pricing a Long Put Option
+    - [B/A] Exercise 1.4.3: Detailed Analysis of Pricing a Short Call Option
+    - [B/A] Exercise 1.4.4: Detailed Analysis of Pricing a Short Put Option
+    - [B/A] Exercise 1.4.5: Your Automated Option Strategy 1 Page Print/PDF Report
+    - [B/A] Quiz 1.4: Pricing a Long or Short Call or Put
+    - [A] Optional Side Note: What Are Futures (Another Derivative Product)?
+- Section 2.0: Valuation and Analysis of Options:
+    - [B/G/A] Intro to Section 2 & How to Download the Option Dashboard for Section 2
+- Section 2.1: Statistics and Greek Formulas to Analyze Options:
+    - [B/G/A] Lecture 2.1.1: Protecting - [Hedging] Your House & Risk Management
+    - [B/G/A] Lecture 2.1.2: Statistics & Historical and Implied Volatility
+    - [B/G/A] Lecture 2.1.3: “AB-Normal” Distribution and Volatility to Predict Prices
+    - [B/G/A] Lecture 2.1.4: Detailed Description of Greek Formulas to Analyze Options
+    - [B/G/A] Exercise 2.1.1: Statistics and Greek Formulas to Analyze Options
+    - [B/G/A] Quiz 2.1: Statistics and Greek Formulas to Analyze Options
+- Section 2.2: How to Value Options Using Binomial Pricing:
+    - [B/G/A] Lecture 2.2.1: Intro to How to Value Options Using Binomial Pricing
+    - [B/G/A] Lecture 2.2.2: Using a Basic 4 Branch Model to Estimate Call Option Prices
+    - [B/G/A] Lecture 2.2.3: How Does Binomial Pricing Work?
+    - [B/G/A] Exercise 2.2.1: How to Value Calls Using a Basic 4 Step Decision Tree
+    - [B/G/A] Exercise 2.2.2: How to Value Options Using Binomial Pricing
+    - [A] Optional Side Note: Make Tough Decisions Using Probabilities
+    - [A] Optional Side Note: How the Best Hedge Fund Uses Software to Make 60%/Year
+    - [B/G/A] Quiz 2.2: How to Value Options Using Binomial Pricing
+- Section 2.3: How to Value Options Using Black Scholes:
+    - [G/A] Lecture 2.3.1: How to Value Options Using Black Scholes
+    - [G/A] Exercise 2.3.1: How to Value Options Using Black Scholes
+    - [G/A] Quiz 2.3: How to Value Options Using Black Scholes
+    - [A] Optional Side Note: What are Forwards (Another Derivative Product)
+- Section 2.4: How to Value Options Using Monte Carlo Simulation:
+    - [G/A] Lecture 2.4.1: How to Value Options Using Monte Carlo Simulation
+    - [G/A] Exercise 2.4.1: How to Value Options Using Monte Carlo Simulation
+    - [G/A] Quiz 2.4: How to Value Options Using Monte Carlo Simulation
+    - [A] Side Note: What Are Swaps? (Another Derivatives Product)
+- Section 3.0: 35+ Option Strategies:
+    - [B/G/A] Intro to - Section 3 & How to Download the Option Dashboards for - Section 3
+- Section 3.1: Creating Single Option Strategies:
+    - [B/G/A] Lecture 3.1.1: Creating the Long Call Options Strategy
+    - [B/G/A] Exercise 3.1.1: Creating the Long Call Option Strategy
+    - [B/G/A] Lecture 3.1.2: Creating the LEAPS Call Option Strategy
+    - [B/G/A] Exercise 3.1.2: Creating the LEAPS Call Option Strategy
+    - [B/G/A] Lecture 3.1.3: Creating the Long Put Option Strategy
+    - [B/G/A] Exercise 3.1.3: Creating the Long Put Option Strategy
+    - [B/G/A] Lecture 3.1.4: Creating the LEAPS Put Option Strategy
+    - [B/G/A] Exercise 3.1.4: Creating the LEAPS Put Option Strategy
+    - [B/G/A] Lecture 3.1.5: Creating the Short Call Option Strategy
+    - [B/G/A] Exercise 3.1.5: Creating the Short Call Option Strategy
+    - [B/G/A] Lecture 3.1.6: Creating the Short Put Option Strategy
+    - [B/G/A] Exercise 3.1.6: Creating the Short Put Option Strategy
+    - [B/G/A] Lecture 3.1.7: Creating the Cash Secured Put Option Strategy
+    - [B/G/A] Exercise 3.1.7: Creating the Cash Secured Put Option Strategy
+    - [B/G/A] Lecture 3.1.8: Creating Other Single Option Strategies
+    - [B/G/A] Exercise 3.1.8: Creating Other Single Options Strategies
+    - [A] Optional Side Note: Fundamental Investment Analysis
+    - [A] Optional Side Note: Catalyst Based Investment Analysis
+    - [A] Optional Side Note: Technical Analysis Based Investment Analysis
+    - [B/G/A] Quiz 3.1: Creating Single Option Strategies
+- Section 3.2: Creating 1 Stock PLUS Single Option Strategies:
+    - [B/G/A] Lecture 3.2.0: Intro. to Creating 1 Stock PLUS Single Option Strategies
+    - [B/G/A] Lecture 3.2.1: Creating the Married Put Option Strategy
+    - [B/G/A] Exercise 3.2.1: Creating the Married Put Option Strategy
+    - [B/G/A] Lecture 3.2.2: Creating the Covered Call Option Strategy
+    - [B/G/A] Exercise 3.2.2: Creating the Covered Call Option Strategy
+    - [B/G/A] Lecture 3.2.3: Creating Other 1 Stock + Single Option Strategies
+    - [B/G/A] Exercise 3.2.3: Creating Other 1 Stock + Single Option Strategies
+    - [B/G/A] Quiz 3.2: Creating 1 Stock PLUS Single Option Strategies
+- Section 3.3: Creating Two Options Strategies:
+    - [B/G/A] Lecture 3.3.0: Introduction to Creating Two Options Strategies
+    - [B/G/A] Lecture 3.3.1: Creating the Long Straddle Options Strategy
+    - [B/G/A] Exercise 3.3.1: Creating the Long Straddle Option Strategy
+    - [B/G/A] Lecture 3.3.2: Creating the Short Straddle Option Strategy
+    - [B/G/A] Exercise 3.3.2: Creating the Short Straddle Option Strategy
+    - [B/G/A] Lecture 3.3.3: Creating the Long Strangle Option Strategy
+    - [B/G/A] Exercise 3.3.3: Creating the Long Strangle Option Strategy
+    - [B/G/A] Lecture 3.3.4: Creating the Short Strangle Option Strategy
+    - [B/G/A] Exercise 3.3.4: Creating the Short Strangle Option Strategy
+    - [B/G/A] Lecture 3.3.5: Creating the Bull Call Spread Option Strategy
+    - [B/G/A] Exercise 3.3.5: Creating the Bull Call Spread Option Strategy
+    - [B/G/A] Lecture 3.3.6: Creating the Bear Call Spread Option Strategy
+    - [B/G/A] Exercise 3.3.6: Creating the Bear Call Spread Option Strategy
+    - [B/G/A] Lecture 3.3.7: Creating the Bear Put Spread Option Strategy
+    - [B/G/A] Exercise 3.3.7: Creating the Bear Put Spread Option Strategy
+    - [B/G/A] Lecture 3.3.8: Creating the Bull Put Spread Option Strategy
+    - [B/G/A] Exercise 3.3.8: Creating the Bull Put Spread Option Strategy
+    - [B/G/A] Lecture 3.3.9: Creating the Synthetic Long Option Strategy
+    - [B/G/A] Exercise 3.3.9: Creating the Synthetic Long Option Strategy
+    - [B/G/A] Lecture 3.3.10: Creating the Synthetic Short Option Strategy
+    - [B/G/A] Exercise 3.3.10: Creating the Synthetic Short Option Strategy
+    - [B/G/A] Lecture 3.3.11: Creating the Collar Option Strategy
+    - [B/G/A] Exercise 3.3.11: Creating the Collar Option Strategy
+    - [B/G/A] Lecture 3.3.12: Creating Fig Leaf Option Strategy
+    - [B/G/A] Exercise 3.3.12: Creating Fig Leaf Option Strategy
+    - [B/G/A] Lecture 3.3.13: Creating Other Two Option Strategies
+    - [B/G/A] Exercise 3.3.13: Creating Other Two Options Strategies
+    - [B/G/A] Quiz 3.3: Creating Two Options Strategies
+- Section 3.4: Creating Four Options Strategies:
+    - [G/A] Lecture 3.4.0: Introduction to Creating the Four Options Strategy
+    - [G/A] Lecture 3.4.1: Creating the Short Iron Condor Options Strategy
+    - [G/A] Exercise 3.4.1: Creating the Short Iron Condor Option Strategy
+    - [G/A] Lecture 3.4.2: Creating the Long Iron Condor Option Strategy
+    - [G/A] Exercise 3.4.2: Creating the Long Iron Condor Option Strategy
+    - [G/A] Lecture 3.4.3: Creating the Long Condor Spread with Calls Option Strategy
+    - [G/A] Exercise 3.4.3: Creating the Long Condor Spread with Calls Option Strategy
+    - [G/A] Lecture 3.4.4: Creating the Long Condor Spread with Puts Option Strategy
+    - [G/A] Exercise 3.4.4: Creating the Long Condor Spread with Puts Option Strategy
+    - [G/A] Lecture 3.4.5: Creating the Short Iron Butterfly Option Strategy
+    - [G/A] Exercise 3.4.5: Creating the Short Iron Butterfly Option Strategy
+    - [G/A] Lecture 3.4.6: Creating the Long Iron Butterfly Option Strategy
+    - [G/A] Exercise 3.4.6: Creating the Long Iron Butterfly Option Strategy
+    - [G/A] Lecture 3.4.7: Creating the Butterfly Spread with Calls Option Strategy
+    - [G/A] Exercise 3.4.7: Creating the Butterfly Spread with Calls Option Strategy
+    - [G/A] Lecture 3.4.8: Creating the Butterfly Spread with Puts Option Strategy
+    - [G/A] Exercise 3.4.8: Creating the Butterfly Spread with Puts Option Strategy
+    - [G/A] Lecture 3.4.9: Creating Long Inverse Skip Butterfly with Calls Strategy
+    - [G/A] Exercise 3.4.9: Creating Long Inverse Skip Butterfly with Calls Strategy
+    - [G/A] Lecture 3.4.10: Creating Long Inverse Skip Butterfly with Puts Strategy
+    - [G/A] Exercise 3.4.10: Creating Long Inverse Skip Butterfly with Puts Strategy
+    - [G/A] Lecture 3.4.11: Creating Long a Skip Strike Butterfly with Calls Strategy
+    - [G/A] Exercise 3.4.11: Creating Long a Skip Strike Butterfly with Calls Strategy
+    - [G/A] Lecture 3.4.12: Creating Long a Skip Strike Butterfly with Puts Strategy
+    - [G/A] Exercise 3.4.12: Creating Long a Skip Strike Butterfly with Puts Strategy
+    - [G/A] Lecture 3.4.13: Creating Other Four Option Strategies
+    - [G/A] Exercise 3.4.13: Creating Other Four Options Strategies
+- Section 3.5: Creating Three Options Strategies:
+    - [G/A] Lecture 3.5.0: Introduction to Creating the Three Options Strategies
+    - [G/A] Lecture 3.5.1: Creating the Back Spread with Calls Options Strategy
+    - [G/A] Exercise 3.5.1: Creating the Back Spread with Calls Option Strategy
+    - [G/A] Lecture 3.5.2: Creating the Back Spread with Puts Option Strategy
+    - [G/A] Exercise 3.5.2: Creating the Back Spread with Puts Option Strategy
+    - [G/A] Lecture 3.5.3: Creating the Front Spread with Calls Option Strategy
+    - [G/A] Exercise 3.5.3: Creating the Front Spread with Calls Option Strategy
+    - [G/A] Lecture 3.5.4: Creating the Front Spread with Puts Option Strategy
+    - [G/A] Exercise 3.5.4: Creating the Front Spread with Puts Option Strategy
+    - [G/A] Lecture 3.5.5: Creating Other Three Option Strategies
+    - [G/A] Exercise 3.5.5: Creating Other Three Options Strategies
+    - [G/A] Quiz 3.5: Creating Three Options Strategies
+- Index of Options and Investment Terms (All Videos Are Sorted Alphabetically):
+    - [A] Alpha
+    - [A] American versus European Style Options
+    - [A] Assignment
+    - [A] At The Money     - [ATM]
+    - [A] Back Spread with Calls Option Strategy (Uses 3 Options)
+    - [A] Back Spread with Puts Option Strategy (Uses 3 Options)
+    - [A] Bear Call Spread Option Strategy (Uses 2 Options)
+    - [A] Bear Put Spread Option Strategy (Uses 2 Options)
+    - [A] Bearish
+    - [A] Beta
+    - [A] Bid Ask
+    - [A] Binomial Option Valuation
+    - [A] Black-Scholes Option Valuation
+    - [A] Broken Wing Option Strategy (Uses 4 Options)
+    - [A] Bull Call Spread Option Strategy (Uses 2 Options)
+    - [A] Bull Put Spread Option Strategy (Uses 2 Options)
+    - [A] Bullish
+    - [A] Butterfly Spread with Calls Option Strategy (Uses 4 Options)
+    - [A] Butterfly Spread with Puts Option Strategy (Uses 4 Options)
+    - [A] Buy to Close
+    - [A] Buy to Open
+    - [A] Call Option
+    - [A] Call or Put
+    - [A] Cash Secured Put Option Strategy (Uses 1 Option)
+    - [A] Catalyst
+    - [A] CBOE
+    - [A] Collar Option Strategy (Uses 2 Options)
+    - [A] Condor Spread with Calls Option Strategy (Uses 4 Options)
+    - [A] Condor Spread with Puts Option Strategy (Uses 4 Options)
+    - [A] Covered Call Option Strategy (Uses 1 Option and 1 Stock)
+    - [A] Credit Call Spread Option Strategy (Uses 2 Options)
+    - [A] Credit Put Spread Option Strategy (Uses 2 Options)
+    - [A] Debit Call Spread Option Strategy (Uses 2 Options)
+    - [A] Debit Put Spread Option Strategy (Uses 2 Options)
+    - [A] Delta
+    - [A] Derivative
+    - [A] ETF
+    - [A] Exercising Option
+    - [A] Expiration Date
+    - [A] Extrinsic
+    - [A] Fig Leaf Option Strategy (Uses 2 Options)
+    - [A] Forwards
+    - [A] Front Spread with Calls Option Strategy (Uses 3 Options)
+    - [A] Front Spread with Puts Option Strategy (Uses 3 Options)
+    - [A] Fundamental Investment Analysis
+    - [A] Futures
+    - [A] Gamma
+    - [A] Greek Formulas
+    - [A] Hedging
+    - [A] Historical Volatility
+    - [A] How to Navigate the Spreadsheets
+    - [A] Implied Volatility
+    - [A] In The Money     - [ITM]
+    - [A] Interest Rate
+    - [A] Intrinsic
+    - [A] Inverse Broken Wing Butterfly Option Strategy (Uses 4 Options)
+    - [A] Inverse Skip Butterfly with Calls Option Strategy (Uses 4 Options)
+    - [A] Inverse Skip Butterfly with Puts Option Strategy (Uses 4 Options)
+    - [A] Inverse Split Strike Butterfly Option Strategy (Uses 4 Options)
+    - [A] Iron Butterfly (Buying) Option Strategy (Uses 4 Options)
+    - [A] Iron Butterfly (Selling) Option Strategy (Uses 4 Options)
+    - [A] Iron Condor (Buying) Option Strategy (Uses 4 Options)
+    - [A] Iron Condor (Selling) Option Strategy (Uses 4 Options)
+    - [A] LEAPs Call Option Strategy (Uses 1 Option)
+    - [A] LEAPs Diagonal Spread Option Strategy (Uses 2 Options)
+    - [A] LEAPs Put Option Strategy (Uses 1 Option)
+    - [A] Leveraged Covered Call Option Strategy (Uses 2 Options)
+    - [A] Limit Order
+    - [A] Long Call Option Strategy (Uses 1 Option)
+    - [A] Long Call Spread Option Strategy (Uses 2 Options)
+    - [A] Long Combination Option Strategy (Uses 2 Options)
+    - [A] Long Combo Option Strategy (Uses 2 Options)
+    - [A] Long
+    - [A] Long Put Option Strategy (Uses 1 Option)
+    - [A] Long Put Spread Option Strategy (Uses 2 Options)
+    - [A] Long Straddle Option Strategy (Uses 2 Options)
+    - [A] Long Strangle Option Strategy (Uses 2 Options)
+    - [A] Margin
+    - [A] Market Order
+    - [A] Married Put Option Strategy (Uses 1 Option and 1 Stock. Also called a Protective Put)
+    - [A] Monte Carlo Simulation Option Valuation
+    - [A] Multiplier
+    - [A] Naked Call Option Strategy (Uses 1 Option)
+    - [A] Naked Put Option Strategy (Uses 1 Option)
+    - [A] Normal Distribution
+    - [A] Open Interest
+    - [A] Option Chain
+    - [A] Option Clearing Corporation
+    - [A] Option Inputs
+    - [A] Option Price
+    - [A] Options Exchanges
+    - [A] Out of the Money     - [OTM]
+    - [A] Pay Later Call Option Strategy (Uses 3 Options)
+    - [A] Pay Later Put Option Strategy (Uses 3 Options)
+    - [A] Protective Collar Option Strategy (Uses 2 Options)
+    - [A] Protective Put Option Strategy (Uses 1 Option and 1 Stock)
+    - [A] Put Option
+    - [A] Ratio Vertical Spread Option Strategy (Uses 3 Options)
+    - [A] Ratio Volatility Spread Option Strategy (Uses 3 Options)
+    - [A] Rho
+    - [A] Risk Management
+    - [A] Sell to Close
+    - [A] Sell to Open
+    - [A] Selling Options
+    - [A] Short Call Option Strategy (Uses 1 Option)
+    - [A] Short Call Spread Option Strategy (Uses 2 Options)
+    - [A] Short Combination Option Strategy (Uses 2 Options)
+    - [A] Short Combo Option Strategy (Uses 2 Options)
+    - [A] Short
+    - [A] Short Put Option Strategy (Uses 1 Option)
+    - [A] Short Put Spread Option Strategy (Uses 2 Options)
+    - [A] Short Straddle Option Strategy (Uses 2 Options)
+    - [A] Shorting Options
+    - [A] Skip Strike Butterfly with Calls Option Strategy (Uses 4 Options)
+    - [A] Skip Strike Butterfly with Puts Option Strategy (Uses 4 Options)
+    - [A] Strike Price
+    - [A] Swaps
+    - [A] Synthetic Long Stock Option Strategy (Uses 2 Options)
+    - [A] Synthetic Short Stock Option Strategy (Uses 2 Options)
+    - [A] Technical Analysis
+    - [A] Theta
+    - [A] Time Decay
+    - [A] Uncovered Call Option Strategy (Uses 1 Option)
+    - [A] Uncovered Put Option Strategy (Uses 1 Option)
+    - [A] Underlying
+    - [A] Valuation Based Investment Analysis
+    - [A] Vega
+    - [A] Vertical Spread Option Strategy (Uses 2 Options)
+    - [A] Vix
+    - [A] Volatility
+    - [A] Volume
+    - [A] Writing Options
+
+- Optional Microsoft Excel Section: How I Made the Excel Spreadsheets
+    - [A] How I Created the Spreadsheets Without Any Code or Macros
+- Optional Photoshop Tutorial Section: How I Made the Photoshop Images
+    - [A] How I Created the Photoshop Images
+- Course Conclusion & Next Steps
+    - [B/G/A] Course Conclusion & Next Steps
+
+
+The exercises in this course and in the spreadsheets used in this course should be used for educational purposes only. Before investing in options, please use the price and probability metrics that your brokerage or trading platform uses. Thank you : )
